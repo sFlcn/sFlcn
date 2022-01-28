@@ -16,7 +16,7 @@ I'm **Pavel**, novice front-end developer from Moscow.
 ![windows](https://img.shields.io/badge/windows-informational?style=for-the-badge&logo=windows&logoColor=0078d6&color=eeeeee)
 ![vscode](https://img.shields.io/badge/vs_Code-informational?style=for-the-badge&logo=visualstudiocode&logoColor=007acc&color=eeeeee)
 ![atom](https://img.shields.io/badge/Atom-informational?style=for-the-badge&logo=Atom&logoColor=66595C&color=eeeeee)
-![brackets](https://img.shields.io/badge/brackets-informational?style=for-the-badge&logo=RTLZWEI&logoColor=000000&color=eeeeee)
+![brackets](https://img.shields.io/badge/brackets-informational?style=for-the-badge&color=eeeeee&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNTYgMjU2Ij48cGF0aCBmaWxsPSIjMTE1YTkxIiBkPSJNMjA1IDBINTFBNTEgNTEgMCAwIDAgMCA1MXYxNTRhNTEgNTEgMCAwIDAgNTEgNTFoMTU0YTUxIDUxIDAgMCAwIDUxLTUxVjUxYTUxIDUxIDAgMCAwLTUxLTUxWm0yNyAxODJhMjQgMjQgMCAwIDEtMjQgMjRINDhhMjQgMjQgMCAwIDEtMjQtMjRWNDlhMjQgMjQgMCAwIDEgMjQtMjRoMTYwYTI0IDI0IDAgMCAxIDI0IDI0WiIvPjxwYXRoIGZpbGw9IiMxYzFjMWIiIGQ9Ik01MyAxNzdoNjR2LTMxSDgyVjgyaDM1VjU0SDUzWm04NS0xMjN2MjhoMzZ2NjRoLTM1djMxaDY0VjU0WiIvPjwvc3ZnPg==)
 ![git](https://img.shields.io/badge/Git-informational?style=for-the-badge&logo=Git&logoColor=f05032&color=eeeeee)
 
 ![adobephotoshop](https://img.shields.io/badge/photoshop-informational?style=for-the-badge&logo=adobephotoshop&logoColor=31A8ff&color=eeeeee)
@@ -30,5 +30,5 @@ I'm **Pavel**, novice front-end developer from Moscow.
 ### My hobbies
 
 ![gaming](https://img.shields.io/badge/gaming-informational?style=for-the-badge&logo=Steam&logoColor=777777&color=eeeeee)
-![reading](https://img.shields.io/badge/reading-informational?style=for-the-badge&logo=BookStack&logoColor=777777&color=eeeeee)
+![reading](https://img.shields.io/badge/reading-informational?style=for-the-badge&color=eeeeee&logo=data:image/svg+xml;base64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzODYgNDU5Ij48cGF0aCBmaWxsPSIjNzc3IiBkPSJNNTggMzY3aDMxM2ExMiAxMiAwIDAgMCAzLTEgMTIgMTIgMCAwIDAgMTItMTJWMTJhMTIgMTIgMCAwIDAtMTItMTJINThBNTggNTggMCAwIDAgMCA1OHYzNDNhNTggNTggMCAwIDAgNTUgNTggMTEgMTEgMCAwIDAgMiAwaDMxN2ExMiAxMiAwIDAgMCAxMi0xMnYtNDVhMTIgMTIgMCAwIDAtMjQtMXYzNEg1OGEzNCAzNCAwIDAgMS0zNC0zM3YtM2EzNCAzNCAwIDAgMSAzNC0zMlptOS0zMDlhMTIgMTIgMCAwIDEgMjQgMHYyNDZhMTIgMTIgMCAwIDEtMjQgMXYtMVoiLz48L3N2Zz4%3D)
 ![dreaming](https://img.shields.io/badge/dreaming-informational?style=for-the-badge&color=eeeeee)
