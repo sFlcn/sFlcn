@@ -1,4 +1,4 @@
-![banner](sFlcn-banner.gif)
+![banner](sFlcn-banner.png)
 
 # Hi there ✌
 
@@ -7,8 +7,8 @@ I'm **Pavel**, novice front-end developer from Moscow.
 - All of my projects are mostly here on Github 👨🏻‍💻
 - I’m currently working on various training projects and learning React ⚛️
 
-![stats](https://github-readme-stats.vercel.app/api?username=sFlcn&hide=stars&show_icons=true&hide_title=true)
-![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sFlcn&exclude_repo=training&langs_count=6&layout=compact)
+![stats](https://github-readme-stats.vercel.app/api?username=sFlcn&hide=stars&show_icons=true&hide_title=true&theme=merko&bg_color=00000000)
+![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sFlcn&exclude_repo=training&langs_count=6&layout=compact&theme=merko&bg_color=00000000)
 
 ## My environment
 
