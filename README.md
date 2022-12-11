@@ -1,4 +1,4 @@
-![banner](sFlcn-banner.png)
+![banner](sFlcn-banner.svg)
 
 # Hi there ✌
 
